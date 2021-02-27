@@ -9,5 +9,5 @@ An example of a sticky notes using React.
 ## Getting Started
 Just click on the link below 👇, enjoy !
 
-📝 https://hananshpigler.github.io/Simon/ 📝
+📝 https://50tdq.csb.app/ 📝
 
